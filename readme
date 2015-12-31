@@ -1,0 +1,4 @@
+The files in here are for the jukebox I designed as a gift. 
+
+I'll admit that the python code isn't terribly pythonic. I was working under immense time pressure to finish the project, and focused more on functioning code.
+I also designed the circuit in the /board directory, using OSHPark to print it. I've taken some EE courses, but this was an entirely new experience to design and test.

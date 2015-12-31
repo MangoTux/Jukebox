@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 '''
-Script to control playback of music (Using OMXPlayer wrapper) and DotStar LED strip
+Script to control playback of music (Using PyGame mixer) and DotStar LED strip
 '''
 
 import os
